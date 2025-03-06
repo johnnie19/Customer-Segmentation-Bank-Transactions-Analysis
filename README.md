@@ -11,17 +11,6 @@ The key techniques used include:
 
 ---
 
-## 📂 Project Structure
-```
-📦 Bank_Transactions_Analysis
- ├── 📁 data/                # Raw & processed datasets
- ├── 📁 notebooks/           # Jupyter Notebooks for analysis
- ├── 📁 reports/             # Summaries & presentations
- ├── 📁 models/              # Trained ML models
- ├── 📁 src/                 # Python scripts for preprocessing & modeling
- ├── README.md               # Project documentation
- ├── final_project.py        # Main script for analysis
-```
 
 ---
 
