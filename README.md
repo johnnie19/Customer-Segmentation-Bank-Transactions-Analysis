@@ -11,9 +11,6 @@ The key techniques used include:
 
 ---
 
-
----
-
 ## 📜 Dataset
 The dataset contains **customer transaction details**, including:
 - **Customer Information**: Age, Gender, Location, Account Balance
